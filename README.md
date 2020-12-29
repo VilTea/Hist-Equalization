@@ -1,2 +1,2 @@
-# Hist-Equalization
-Hist-Equalization, GPU, cuda
+# 直方图均衡化的并行化
+直方图均衡化的GPU实现，使用numba
